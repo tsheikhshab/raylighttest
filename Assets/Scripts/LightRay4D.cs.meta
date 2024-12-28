@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 152b988b0de51784285aa8a825e3a7a5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sphereMinus1Object: {fileID: 6539763534069090355, guid: f59c7b18601205f4dace1586a671041b, type: 3}
+  - innerSpaceObject: {fileID: 2375599887690669451, guid: 2e52bbf7112102d47a9997112e2e40cb, type: 3}
+  - spherePlus1Object: {fileID: 8704568275379114818, guid: a5f29690b45688b4b957f183f3346075, type: 3}
+  - outerSphereObject: {fileID: 3291846425373285694, guid: cf81080b0d19d7d4e87f34fb3f938c29, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
